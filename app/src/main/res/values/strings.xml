@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AfterSchool</string>
+    <string name="junYoungURL">http://192.168.0.8:8080/AfterSchoolServer/</string>
+    <string name="hyeonWooURL">http://192.168.0.6:6060/</string>
+</resources>
